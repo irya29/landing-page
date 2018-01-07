@@ -148,7 +148,7 @@
     margin-top: 30px;
 }
 
-.packages dt {
+.packages dd {
     display: block;
     padding: 5px;
 }
@@ -160,7 +160,7 @@
 }
 
 .packages p,
-.packages dt {
+.packages dd {
     color: #737373;
 }
 
